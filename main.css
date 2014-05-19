@@ -1,0 +1,11 @@
+#upperBound{
+	width:300px;
+	height:25px;
+	font-size:1.1em;
+}
+button{
+	border-radius:5px;
+	height:30px;
+	font-size:1.15em;
+	background-color:yellow;
+}
